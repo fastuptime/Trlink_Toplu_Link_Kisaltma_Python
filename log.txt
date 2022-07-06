@@ -1,0 +1,6 @@
+2022.07.07 02:47:42 ➾ Program başladı.
+2022.07.07 02:47:42 ➾ Yapımcı: Can
+2022.07.07 02:47:42 ➾ GitHub: https://github.com/fastuptime
+2022.07.07 02:47:43 ➾ https://www.google.com/ başarılı bir şekilde kısaltıldı. Kısa link; https://ay.live/yXuYG
+2022.07.07 02:47:46 ➾ https://www.github.com başarılı bir şekilde kısaltıldı. Kısa link; https://ay.live/1VXdp
+2022.07.07 02:47:50 ➾ https://github.com/fastuptime başarılı bir şekilde kısaltıldı. Kısa link; https://ay.live/hvzkg
